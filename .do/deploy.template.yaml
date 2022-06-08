@@ -11,4 +11,3 @@ functions:
   - path: /
   source_dir: /
 name: php-helloworld
-region: blr
