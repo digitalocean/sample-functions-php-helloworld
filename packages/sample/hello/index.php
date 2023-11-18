@@ -2,7 +2,7 @@
  
 function main(array $args) : array
 {
-    $name = $args["name"] ?? "stranger";
+    $name = $args["name"] ?? "Mohamad";
     
     $greeting = "Hello {$name}!";
     echo $greeting;
